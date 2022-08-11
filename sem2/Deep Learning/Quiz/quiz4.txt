@@ -1,0 +1,1 @@
+apply convolution with different strides and write the answer. 

@@ -1,0 +1,7 @@
+questuon 1
+
+find hessian matrix of given expression (two variables)
+
+question 2
+
+find critical point for fiven expression (two variables)

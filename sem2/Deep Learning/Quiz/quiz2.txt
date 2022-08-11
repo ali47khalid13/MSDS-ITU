@@ -1,0 +1,1 @@
+plots of loss vs iteration were given and it was asked what type of optimization stratergy is used liked SGD, BGD, Adam etc.

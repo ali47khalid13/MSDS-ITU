@@ -1,0 +1,5 @@
+- Matrix Calculus for Deep Learning: 
+	https://explained.ai/matrix-calculus/index.html
+-Numerical Linear Algebra
+	https://github.com/fastai/numerical-linear-algebra/blob/master/README.md?fbclid=IwAR3o2rBK5OAUNdKcRenXk8x0GlJTZTLGprpb1HqlomHcFQXyM_DB5suwWzc
+
